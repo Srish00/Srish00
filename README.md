@@ -1,6 +1,6 @@
 - Hi, I’m @Srish00
 - I’m interested in Web Development 
-- I’m currently pursuing B.Tech. in Comouter Science
+- I’m currently pursuing B.Tech. in Computer Science
 - I’m looking to collaborate on  a project
 - I have a deep knowledge in HTML , CSS, Bootstrap
 
